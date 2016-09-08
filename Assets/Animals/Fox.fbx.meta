@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: bf8f4f2ad946849449ba03acc0a78209
+timeCreated: 1473286594
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Ass
+    100004: Armature|Chest
+    100006: Armature|Dick
+    100008: Armature|EarBone
+    100010: Armature|L_Biceps
+    100012: Armature|L_Ear
+    100014: Armature|L_EarTip
+    100016: Armature|L_Fot
+    100018: Armature|L_Krage
+    100020: Armature|L_Laar
+    100022: Armature|L_Legg
+    100024: Armature|L_Paw
+    100026: Armature|L_Pelvis
+    100028: Armature|L_Wanker
+    100030: Armature|LMouth
+    100032: Armature|MouthBone
+    100034: Armature|Neck
+    100036: Armature|R_Biceps
+    100038: Armature|R_Ear
+    100040: Armature|R_EarTip
+    100042: Armature|R_Fot
+    100044: Armature|R_Krage
+    100046: Armature|R_Laar
+    100048: Armature|R_Legg
+    100050: Armature|R_Paw
+    100052: Armature|R_Pelvis
+    100054: Armature|R_Wanker
+    100056: Armature|Stomach
+    100058: Armature|Tail1
+    100060: Armature|Tail2
+    100062: Armature|Tail3
+    100064: Armature|UMouth
+    100066: //RootNode
+    100068: pasted__pSphere1.001
+    400000: Armature
+    400002: Armature|Ass
+    400004: Armature|Chest
+    400006: Armature|Dick
+    400008: Armature|EarBone
+    400010: Armature|L_Biceps
+    400012: Armature|L_Ear
+    400014: Armature|L_EarTip
+    400016: Armature|L_Fot
+    400018: Armature|L_Krage
+    400020: Armature|L_Laar
+    400022: Armature|L_Legg
+    400024: Armature|L_Paw
+    400026: Armature|L_Pelvis
+    400028: Armature|L_Wanker
+    400030: Armature|LMouth
+    400032: Armature|MouthBone
+    400034: Armature|Neck
+    400036: Armature|R_Biceps
+    400038: Armature|R_Ear
+    400040: Armature|R_EarTip
+    400042: Armature|R_Fot
+    400044: Armature|R_Krage
+    400046: Armature|R_Laar
+    400048: Armature|R_Legg
+    400050: Armature|R_Paw
+    400052: Armature|R_Pelvis
+    400054: Armature|R_Wanker
+    400056: Armature|Stomach
+    400058: Armature|Tail1
+    400060: Armature|Tail2
+    400062: Armature|Tail3
+    400064: Armature|UMouth
+    400066: //RootNode
+    400068: pasted__pSphere1.001
+    4300000: pasted__pSphere1.001
+    7400000: Armature|Idle
+    7400002: Armature|Walk
+    9500000: //RootNode
+    13700000: pasted__pSphere1.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Ass
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1/Armature|Tail2
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1/Armature|Tail2/Armature|Tail3
+        weight: 1
+      - path: Armature/Armature|Dick
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps/Armature|L_Wanker
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps/Armature|L_Wanker/Armature|L_Paw
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|L_Ear
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|L_Ear/Armature|L_EarTip
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|R_Ear
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|R_Ear/Armature|R_EarTip
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone/Armature|LMouth
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone/Armature|UMouth
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps/Armature|R_Wanker
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps/Armature|R_Wanker/Armature|R_Paw
+        weight: 1
+      - path: Armature/Armature|L_Pelvis
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar/Armature|L_Legg
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar/Armature|L_Legg/Armature|L_Fot
+        weight: 1
+      - path: Armature/Armature|R_Pelvis
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar/Armature|R_Legg
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar/Armature|R_Legg/Armature|R_Fot
+        weight: 1
+      - path: pasted__pSphere1.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Ass
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1/Armature|Tail2
+        weight: 1
+      - path: Armature/Armature|Ass/Armature|Tail1/Armature|Tail2/Armature|Tail3
+        weight: 1
+      - path: Armature/Armature|Dick
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps/Armature|L_Wanker
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|L_Krage/Armature|L_Biceps/Armature|L_Wanker/Armature|L_Paw
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|L_Ear
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|L_Ear/Armature|L_EarTip
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|R_Ear
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|EarBone/Armature|R_Ear/Armature|R_EarTip
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone/Armature|LMouth
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|Neck/Armature|MouthBone/Armature|UMouth
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps/Armature|R_Wanker
+        weight: 1
+      - path: Armature/Armature|Dick/Armature|Stomach/Armature|Chest/Armature|R_Krage/Armature|R_Biceps/Armature|R_Wanker/Armature|R_Paw
+        weight: 1
+      - path: Armature/Armature|L_Pelvis
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar/Armature|L_Legg
+        weight: 1
+      - path: Armature/Armature|L_Pelvis/Armature|L_Laar/Armature|L_Legg/Armature|L_Fot
+        weight: 1
+      - path: Armature/Armature|R_Pelvis
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar/Armature|R_Legg
+        weight: 1
+      - path: Armature/Armature|R_Pelvis/Armature|R_Laar/Armature|R_Legg/Armature|R_Fot
+        weight: 1
+      - path: pasted__pSphere1.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
